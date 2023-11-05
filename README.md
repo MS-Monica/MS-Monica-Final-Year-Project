@@ -1,10 +1,11 @@
 <h1 align="center">
   <br>
-  
-  <a href=""><img src="https://github.com/MS-Monica/MS-Monica-Final-Year-Project/assets/149927157/99726f61-5424-486a-a66a-167dc68829da" alt="Student Library" width="300"></a>
-  <br>
+ <br>
   
   IOT BASED GAS LEAKAGE DETECTION<br>
+
+  <a href=""><img src="https://github.com/MS-Monica/MS-Monica-Final-Year-Project/assets/149927157/e3a3645f-f2e8-420c-a790-810be25d63d6" alt="Student Library" height="1000" width="500"></a>
+ 
  <h2> The main objective of this project is to build a existing IoT device is related to kitchen, room vehicles
 but not related to industry. Mainly for hazardous gases or it's components. Sending message using NodeMCU
 module</h2>
